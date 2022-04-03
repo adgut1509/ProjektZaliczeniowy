@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Glossary
-nav_order: 3
+title: MemoQ
+nav_order: 2
 ---
 
 # **Glossary**

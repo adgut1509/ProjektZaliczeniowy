@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step-by-step guide
+title: CAT tools
 nav_order: 2
 has_children: true
 ---

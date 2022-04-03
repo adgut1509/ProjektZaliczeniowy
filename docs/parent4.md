@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Trados Studio
-nav_order: 3
+title: User guide
+nav_order: 4
 ---
 
 # **Useful links**
