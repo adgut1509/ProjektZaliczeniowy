@@ -11,4 +11,7 @@ grand_parent: User guide
 1.	Open MemoQ.
 2.	Drag and drop the Trados text file (.sdlxliff) that you want to use into the designated space.
 
-![](assets/images/Picture1.png)
+![](../../../assets/images/Picture1.png)
+
+3.	Click Start translating.
+
