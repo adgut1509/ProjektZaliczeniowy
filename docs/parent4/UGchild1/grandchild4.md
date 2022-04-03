@@ -1,7 +1,7 @@
 ---
 layout: default
-title: How to open a Trados package file (.sdlppx) in MemoQ
+title: How to open a Trados text file(.sdlxliff) in MemoQ
 parent: Trados files in MemoQ
-nav_order: 2
+nav_order: 1
 grand_parent: User guide
 ---
