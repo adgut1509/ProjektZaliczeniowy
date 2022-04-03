@@ -13,6 +13,6 @@ grand_parent: User guide
 
 ![](../../../assets/images/Picture1.png)
 
-3.	Click *Start translating*s.
+3.	Click *Start translating*.
 
 ![](../../../assets/images/Picture2.png)
