@@ -1,12 +1,12 @@
 ---
 layout: default
-title: How to publish and record a study in Labvanced
+title: Introduction
 nav_order: 1
-description: "Labvanced"
+description: "Introduction"
 permalink: /
 ---
 
-# **About Labvanced**
+# **Introduction**
 
 [Labvanced](https://www.labvanced.com/) is a platform on which you can create online experiments.
 
