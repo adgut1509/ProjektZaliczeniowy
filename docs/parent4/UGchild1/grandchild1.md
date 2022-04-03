@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to sth
-parent: MemoQ
-nav_order: 1
+parent: How to open a Trados package file (.sdlppx) in MemoQ?
+nav_order: 2
 grand_parent: User guide
 ---
