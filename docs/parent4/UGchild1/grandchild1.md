@@ -10,24 +10,24 @@ grand_parent: User guide
 
 1.	Open MemoQ.
 
-1.	Drag and drop the Trados package file (.sdlppx) that you want to use into the designated space.
+2.	Drag and drop the Trados package file (.sdlppx) that you want to use into the designated space.
 
 ![](../../../assets/images/Picture5.png)
 
-1.	Click *Start translating*.
+3.	Click *Start translating*.
 
 ![](../../../assets/images/Picture6.png)
 
-1. 	Enter the information and the target language, and click *Next*.
+4. 	Enter the information and the target language, and click *Next*.
 
 ![](../../../assets/images/Picture7.png)
 
-1.	Translation memories and term bases are imported by default. If you do not wish to import them, untick the boxes next to them. Then, click *Finish*.
+5.	Translation memories and term bases are imported by default. If you do not wish to import them, untick the boxes next to them. Then, click *Finish*.
 
 ![](../../../assets/images/Picture8.png)
 
-1.	Wait for the operation to complete, and click *Close*.
+6.	Wait for the operation to complete, and click *Close*.
 
 ![](../../../assets/images/Picture9.png)
 
-1.	You have successfully added the package file.
+7.	You have successfully added the package file.
