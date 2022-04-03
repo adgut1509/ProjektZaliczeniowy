@@ -16,3 +16,13 @@ grand_parent: User guide
 3.	Click *Start translating*.
 
 ![](../../../assets/images/Picture2.png)
+
+4.	Create a new project from template. Enter the information, and click *Finish*.
+
+![](../../../assets/images/Picture3.png)
+
+5.	Wait for the operation to complete, and click *Close*.
+
+![](../../../assets/images/Picture4.png)
+
+6.	You have successfully added the text file. In the Translations panel, double click it to open it.
