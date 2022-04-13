@@ -10,7 +10,7 @@ grand_parent: User guide
 
 It is not possible to open an .sdltb file in MemoQ. However, you can convert the .sdltb file into one of the formats supported by MemoQ (.csv, .txt, .txv, .tmx, .xls, .xlsx, .xml, .tbx).
 
-It is possible to import MemoQ as part of a package file (see [link]).
+It is possible to import MemoQ as part of a package file (see [tu będzie link]).
 
 ## Links
 
