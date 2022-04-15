@@ -1,11 +1,7 @@
 ---
 layout: default
-title: Trados Studio
+title: Trados Studio 2021
 nav_order: 3
 ---
 
-# **Useful links**
-
-[Labvanced homepage](https://www.labvanced.com/)
-
-[Tutorial on how to create a sample study design in Labvanced](https://www.youtube.com/watch?v=E6G3ZI9JKBQ)
+# **Trados Studio 2021**
