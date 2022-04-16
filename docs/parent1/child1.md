@@ -5,4 +5,4 @@ parent: CAT tools
 nav_order: 1
 ---
 
-# **What is a translation management systems**
+# **What is a translation management system**
