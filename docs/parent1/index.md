@@ -18,10 +18,9 @@ The process step-by-step:
 1. The human translator inputs the source text into a CAT tool.
 2. The CAT tool extracts translatable parts of the text.
 3. The CAT tool divides the text into segments.
-4. d
-5. d
-6. d
-7. d
+4. The CAT tool displays the source and target texts side by side.
+5. The human translator inputs their translations into the target segments.
+6. The CAT tool saves the part of the source text and its translation in a [translation memory](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child2.html)
 
 # **What are the features of CAT tools**
 
