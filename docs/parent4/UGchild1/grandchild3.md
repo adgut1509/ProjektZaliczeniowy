@@ -14,4 +14,4 @@ It is possible to import a term base as part of a package file (see [here](https
 
 ## Links
 
-[https://atrilsolutions.zendesk.com/hc/en-us/articles/360018335400-How-To-Convert-A-termbase-In-SDLTB-Format-To-CSV](https://atrilsolutions.zendesk.com/hc/en-us/articles/360018335400-How-To-Convert-A-termbase-In-SDLTB-Format-To-CSV)
+[How to convert a term base in .sdltb format to .csv](https://atrilsolutions.zendesk.com/hc/en-us/articles/360018335400-How-To-Convert-A-termbase-In-SDLTB-Format-To-CSV)
