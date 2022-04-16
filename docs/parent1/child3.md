@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glossaries
+title: Term bases
 parent: CAT tools
 nav_order: 3
 ---
