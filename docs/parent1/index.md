@@ -26,6 +26,7 @@ The process step-by-step:
 
 - [Translation memories](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child2.html)
 - [Term bases](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child3.html)
+- 
 
 # **What are the benefits of CAT tools**
 
