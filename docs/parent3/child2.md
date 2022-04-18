@@ -6,3 +6,5 @@ nav_order: 2
 ---
 
 # RWS Trados
+
+![](../../assets/images/trados.png)
