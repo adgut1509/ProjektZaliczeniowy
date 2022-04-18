@@ -1,0 +1,6 @@
+---
+layout: default
+title: RWS Trados
+parent: CAT tool brands
+nav_order: 2
+---
