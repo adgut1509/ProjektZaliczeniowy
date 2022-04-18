@@ -24,9 +24,15 @@ The process step-by-step:
 
 # **What are the features of CAT tools**
 
-- [Translation memories](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child2.html)
-- [Term bases](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child3.html)
-- 
+- **[Translation memories](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child2.html)**
+- **[Term bases](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child3.html)**
+- **Collaborative teamwork capability**
+    
+   Cloud-based CAT tools allow you to invite the members of your team (translators, managers, reviewers, customers, etc.) and ask them for their opinion on your translation. Thanks to the software, it is possible to pre-translate the text and share it with whomever you select as your collaborators.
+- **Quality assurance functionality**
+
+
+- **Machine translation**
 
 # **What are the benefits of CAT tools**
 
