@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Translation memories
+title: Term bases
 parent: CAT tools
 nav_order: 2
 ---
 
-# **What are translation memories in CAT tools**
+# **What are term bases in CAT tools**
+

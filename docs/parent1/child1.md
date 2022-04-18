@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Translation management systems
+title: Translation memories
 parent: CAT tools
 nav_order: 1
 ---
 
-# **What is a translation management system**
+# **What are translation memories in CAT tools**

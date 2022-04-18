@@ -28,11 +28,13 @@ The process step-by-step:
 - **[Term bases](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child3.html)**
 - **Collaborative teamwork capability**
     
-   Cloud-based CAT tools allow you to invite the members of your team (translators, managers, reviewers, customers, etc.) and ask them for their opinion on your translation. Thanks to the software, it is possible to pre-translate the text and share it with whomever you select as your collaborators.
+   Cloud-based CAT tools allow you to invite the members of your team (translators, managers, reviewers, customers, etc.) and ask them for their opinion on your translation. Thanks to the software, it is possible to pre-translate the text and share it with  your collaborators.
 - **Quality assurance functionality**
 
-
+   CAT tools usually have QA (quality assurance) functionalities, such as internal spellchecking. They are able to detect errors like typos or missing tags and ensure high-quality translations.
 - **Machine translation**
+
+   CAT tools also have the capability to use AI-powered machine translation. The user can input the source text, and the software will generate the translation. Using machine translation is especially useful with big volumes of text. It can be used alongside human translators, who would perform machine translation post-editing.
 
 # **What are the benefits of CAT tools**
 
