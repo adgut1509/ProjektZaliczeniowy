@@ -38,5 +38,9 @@ The process step-by-step:
 
 # **What are the benefits of CAT tools**
 
-- The automation makes the translation process faster and more consistent.
-- 
+- The automation of CAT tools makes the translation process faster and more consistent.
+- CAT tools and their features get smarter the more you use them, so using them gets easier with time.
+- CAT tools are avaiable on many different platforms, including the web, desktop, and mobile.
+- CAT tools format your text, so you do not need to do handle that yourself.
+- Thanks to integrated language databases, they are especially useful for texts using specific terminology.
+- The maching technology of CAT tools makes the translation process quicker and less costly.
