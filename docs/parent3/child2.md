@@ -7,4 +7,4 @@ nav_order: 2
 
 # RWS Trados
 
-![test](../../assets/images/trados.png)
+![](../../assets/images/trados.png)
