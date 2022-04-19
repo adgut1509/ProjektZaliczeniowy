@@ -5,6 +5,6 @@ parent: CAT tool brands
 nav_order: 2
 ---
 
-# RWS Trados
+# **RWS Trados**
 
 ![](../../assets/images/trados.png)
