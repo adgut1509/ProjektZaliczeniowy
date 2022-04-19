@@ -7,4 +7,4 @@ nav_order: 1
 
 # MemoQ
 
-![](../../assets/images/memoq.png)
+![](../../assets/images/memoq1.png)
