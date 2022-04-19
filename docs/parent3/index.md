@@ -1,10 +1,10 @@
 ---
 layout: default
-title: CAT tool brands
+title: CAT tool providers
 nav_order: 3
 has_children: true
 ---
 
-# CAT tool brands
+# CAT tool providers
 
-There are several brands of CAT tools.
+There are several providers of CAT tools.
