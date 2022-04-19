@@ -8,7 +8,7 @@ grand_parent: User guide
 
 # How to open a Trados package file (.sdlppx) in MemoQ
 
-1.	Open MemoQ.
+1.	Open MemoQ Translator Pro.
 
 2.	Drag and drop the Trados package file (.sdlppx) that you want to use into the designated space.
 

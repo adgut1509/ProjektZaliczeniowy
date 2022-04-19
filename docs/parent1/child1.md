@@ -17,5 +17,4 @@ Translation memories are built on the basis of a translator's completed translat
 
 ## **Links**
 
-https://docs.memoq.com/current/en/Things/things-tm-settings.html
-https://docs.memoq.com/current/en/Things/things-tm-match-scoring-and-number-su.html
+[Translation memory settings in MemoQ Translator Pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)

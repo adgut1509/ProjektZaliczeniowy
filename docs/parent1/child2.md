@@ -13,4 +13,4 @@ Term bases often include specific words and phrases that the you are *required* 
 
 ## **Links**
 
-https://docs.memoq.com/current/en/Things/things-term-bases.html
+[Term bases in MemoQ Translator Pro](https://docs.memoq.com/current/en/Things/things-term-bases.html)

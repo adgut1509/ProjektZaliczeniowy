@@ -8,7 +8,7 @@ grand_parent: User guide
 
 # How to open a Trados translation memory file (.sdltm) in MemoQ
 
-1.	Open MemoQ.
+1.	Open MemoQ Translator Pro.
 
 2.  Go to the *Translation memories* section of your project to create a new translation memory.
 
