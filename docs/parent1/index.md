@@ -7,11 +7,11 @@ has_children: true
 
 # **What is a CAT tool**
 
-CAT (Computer-Assisted Translation) tools are software used that help a human translator translate texts from one language to another. They have substantially changed the work of a translator. CAT tools also make it easier for translators to manage, edit, and submit their projects.
+CAT (Computer-Assisted Translation) tools are software that help a human translator translate texts from one language to another. They have changed the work of a translator a lot. CAT tools also make it easier for translators to manage, edit, and submit their projects.
 
 # **What does a CAT tool do**
 
-When the human translator inputs text in the source language into a CAT tool, it divides it into segments. Then, as the segments get translated, it saves the parts of the source and target texts.
+When the human translator inputs text in the source language into a CAT tool, a CAT tool divides it into segments. Then, the segments get translated, and the CAT tool saves the parts of the source and target texts.
 
 The process step-by-step:
 
@@ -20,7 +20,7 @@ The process step-by-step:
 3. The CAT tool divides the text into segments.
 4. The CAT tool displays the source and target texts side by side.
 5. The human translator inputs their translations into the target segments.
-6. The CAT tool saves the part of the source text and its translation in a [translation memory](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child2.html)
+6. The CAT tool saves the part of the source text and its translation in a [translation memory](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child2.html).
 
 # **What are the features of CAT tools**
 
@@ -42,5 +42,5 @@ The process step-by-step:
 - CAT tools and their features get smarter the more you use them, so using them gets easier with time.
 - CAT tools are avaiable on many different platforms, including the web, desktop, and mobile.
 - CAT tools format your text, so you do not need to do handle that yourself.
-- Thanks to integrated language databases, they are especially useful for texts using specific terminology.
+- Thanks to integrated language databases, CAT tools are especially useful for translating texts with specific terminology.
 - The maching technology of CAT tools makes the translation process quicker and less costly.
