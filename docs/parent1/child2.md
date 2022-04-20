@@ -15,9 +15,13 @@ Term bases often include specific words and phrases that the you are *required* 
 
    ![](../../assets/images/Picture24.png)
 
+Text to be added
+
 # **Term bases in Trados Studio 2021**
 
    ![](../../assets/images/Picture25.png)
+
+Text to be added
 
 ## **Links**
 

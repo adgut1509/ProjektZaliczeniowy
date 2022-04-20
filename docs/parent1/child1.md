@@ -19,9 +19,13 @@ Translation memories are built on the basis of a translator's completed translat
 
    ![](../../assets/images/Picture22.png)
 
+Text to be added
+
 # **Translation memories in Trados Studio 2021**
 
    ![](../../assets/images/Picture23.png)
+
+Text to be added
 
 ## **Links**
 
