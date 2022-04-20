@@ -11,6 +11,10 @@ In CAT tools, termbases are databases that consist of pairs of multilingual term
 
 Term bases often include specific words and phrases that the you are *required* to translate in a particular way.
 
+# **Term bases in MemoQ Translator Pro**
+
+# **Term bases in Trados Studio 2021**
+
 ## **Links**
 
 [Term bases in MemoQ Translator Pro](https://docs.memoq.com/current/en/Things/things-term-bases.html)

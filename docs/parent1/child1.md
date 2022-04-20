@@ -15,6 +15,10 @@ It is especially useful for these types of translation that contain a lot of the
 
 Translation memories are built on the basis of a translator's completed translations.
 
+# **Translation memories in MemoQ Translator Pro**
+
+# **Translation memories in Trados Studio 2021**
+
 ## **Links**
 
 [Translation memory settings in MemoQ Translator Pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)
