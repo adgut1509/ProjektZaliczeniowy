@@ -19,7 +19,7 @@ Text to be added
 
 # **Term bases in Trados Studio 2021**
 
-   ![](../../assets/images/Picture25.png)
+   ![](../../assets/images/Picture27.png)
 
 Text to be added
 
