@@ -13,13 +13,13 @@ Term bases often include specific words and phrases that the you are *required* 
 
 # **Term bases in MemoQ Translator Pro**
 
-   ![](../../assets/images/Picture24.png)
+![](../../assets/images/Picture24.png)
 
 Text to be added
 
 # **Term bases in Trados Studio 2021**
 
-   ![](../../assets/images/Picture27.png)
+![](../../assets/images/Picture27.png)
 
 Text to be added
 
