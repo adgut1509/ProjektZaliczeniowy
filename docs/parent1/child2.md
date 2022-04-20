@@ -13,7 +13,11 @@ Term bases often include specific words and phrases that the you are *required* 
 
 # **Term bases in MemoQ Translator Pro**
 
+   ![](../../assets/images/Picture24.png)
+
 # **Term bases in Trados Studio 2021**
+
+   ![](../../assets/images/Picture25.png)
 
 ## **Links**
 
