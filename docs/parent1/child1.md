@@ -17,7 +17,7 @@ Translation memories are built on the basis of a translator's completed translat
 
 # **Translation memories in MemoQ Translator Pro**
 
-![](../../assets/images/Picture22.png)
+![](../../assets/images/Picture28.png)
 
 Text to be added
 

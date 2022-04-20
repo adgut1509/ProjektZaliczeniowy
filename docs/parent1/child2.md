@@ -13,7 +13,7 @@ Term bases often include specific words and phrases that the you are *required* 
 
 # **Term bases in MemoQ Translator Pro**
 
-![](../../assets/images/Picture24.png)
+![](../../assets/images/Picture29.png)
 
 Text to be added
 
