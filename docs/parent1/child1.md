@@ -17,7 +17,11 @@ Translation memories are built on the basis of a translator's completed translat
 
 # **Translation memories in MemoQ Translator Pro**
 
+   ![](../../assets/images/Picture22.png)
+
 # **Translation memories in Trados Studio 2021**
+
+   ![](../../assets/images/Picture23.png)
 
 ## **Links**
 
