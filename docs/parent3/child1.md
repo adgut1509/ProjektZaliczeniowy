@@ -15,8 +15,9 @@ nav_order: 1
 - Translation memory, term bases, predictive typing technology
 - Recycling documents with the LiveDocs feature
 
+![](../../assets/images/memoq1.png)
+
 ## **Links**
 
 [MemoQ compatibility](https://www.memoq.com/products/memoq-translator-pro)
 
-![](../../assets/images/memoq1.png)
