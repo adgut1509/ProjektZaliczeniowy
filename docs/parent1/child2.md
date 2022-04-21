@@ -23,6 +23,9 @@ To go to the Term bases section, open a project and click *Translation memories*
 - click *Delete* to delete the selected term base
 - click *Use In Project* to use the selected term base in a particular project
 - once you have done that, to remove the selected term base from a particular project, click *Remove From Project*
+- click *As Target For New Terms* to set the selected term base as the target for new terms - terms added with the Quick Add (Ctrl+Q) command will be added there
+- click *Raise Rank* to raise the rank of the selected term base, which affects how term bases are displayed
+- conversely, click *Lower Rank* to lower the rank of the selected term base
 - click *Edit* to open and edit the selected term base
 - click *Import Terminology* to import a file (.csv, .txt, .tsv, .tmx, .xls, .xlsx, .xml, or .tbx)
 - click *Export Terminology* to export the selected term base to a .csv, .xlsx, or .xml file
