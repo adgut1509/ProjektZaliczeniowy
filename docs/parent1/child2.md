@@ -43,7 +43,7 @@ Open a text file. In the upper right corner of the Editor section you can see th
 - click the third icon to configure the hitlist settings
 - click the fourth icon to configure the term base settings 
 
-![](../../assets/images/Picture31.png)
+![](../../assets/images/Picture33.png)
 
 Here you can:
 
@@ -56,7 +56,7 @@ Here you can:
 
 Apart from the Term Recognition section, you can also go to the Termbase Search section to search for particular items.
 
-![](../../assets/images/Picture33.png)
+![](../../assets/images/Picture32.png)
 
 ## **Links**
 
