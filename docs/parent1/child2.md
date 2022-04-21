@@ -36,7 +36,27 @@ To go to the Term bases section, open a project and click *Translation memories*
 
 ![](../../assets/images/Picture27.png)
 
-Text to be added
+Open a text file. In the upper right corner of the Editor section you can see the Term Recognition section. There you can:
+
+- click the first icon to view term details of the selected the term base
+- click the second icon to insert term translations
+- click the third icon to configure the hitlist settings
+- click the fourth icon to configure the term base settings 
+
+![](../../assets/images/Picture31.png)
+
+Here you can:
+
+- click *Create* to a create a new file-based term base
+- click *Use* to open a file-based term base (the preferred file types are .sdltb and .mdb), a server-based term base, or a cloud-based terminology
+- click *Settings* to configure the settings of the term base
+- click the arrows to move the term bases up and down
+- clcik *Remove* to remove the selected term base
+- click *Set default* to set the selected term base as the default one
+
+Apart from the Term Recognition section, you can also go to the Termbase Search section to search for particular items.
+
+![](../../assets/images/Picture33.png)
 
 ## **Links**
 
