@@ -49,7 +49,7 @@ To go to the Translation memories section, click *Translation Memories* on the l
 - click *New* to create a new translation memory (an .sdltm file), a server-based translation memory, or a language resource template
 - click *Import* to import a translation memory (.tmx, tmx.gz, .sdlxliff, .ttx, .itd, or .sdlalign)
 - click *Export* to export a selected translation memory to a .tmx file
-- click "Migrate Local TMs to Cloud* to migrate a local translation memory to a cloud server
+- click *Migrate Local TMs to Cloud* to migrate a local translation memory to a cloud server
 - click *Align Documents* to select a translation memory and the documents (a single file pair or multiple files) to align, or to open an alignment file (.sdlalign)
 - click *Create AutoSuggest Display* to select a translation memory and create a new AutoSuggest dictionary
 - click *Commit Changes* to commit pending changes to a particular translation memory
