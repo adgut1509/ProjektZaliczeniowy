@@ -29,7 +29,14 @@ To go to the *Translation memories* section, open a project and click *Translati
 - click *Use In Project* to use the selected translation memory in a particular project
 - once you have done that, to remove the selected translation memory from a particular project, click *Remove From Project*
 - click *Settings* to display the settings on how the selected translation memory will be used in a particular project
-- 
+- click *Set As Working* to set the selected translation memory as the working translation memory, where all new translations are stored when the translator or reviewer confirms a translated segments
+- click *Set As Master* to set the selected translation memory as the master translation memory, where MemoQ stores translation during the Confirm And Update Rows operation
+- click *Edit* to open and edit the selected translation memory
+- click *Import* to import a file (.csv, .txt, .tsv, .tmx, or .sdltm)
+- click *Export to TMX* to export the selected translation memory to a .tmx file
+- click *Repair Resource* to repair the translation memory to improve lookup speed
+- click *Synchronize Online* to synchronise the translation memory by creating or updating a local copy
+
 
 # **Translation memories in Trados Studio 2021**
 
