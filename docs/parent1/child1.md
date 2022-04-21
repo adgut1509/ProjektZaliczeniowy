@@ -19,7 +19,17 @@ Translation memories are built on the basis of a translator's completed translat
 
 ![](../../assets/images/Picture28.png)
 
-Text to be added
+To go to the *Translation memories* section, open a project and click *Translation memories* on the left side of the screen. Then, on the top part of the screen, you can:
+
+- click *Create/Use New* to create a new translation memory to be used in the project 
+- click *Register Local* to register a local translation memory for MemoQ to use in projects (the preferred file format is .mtm)
+- click *Clone* to make a copy of the selected translation memory
+- click *Properties* to display the properties of the selected translation memory
+- click *Delete* to delete the selected translation memory
+- click *Use In Project* to use the selected translation memory in a particular project
+- once you have done that, to remove the selected translation memory from a particular project, click *Remove From Project*
+- click *Settings* to display the settings on how the selected translation memory will be used in a particular project
+- 
 
 # **Translation memories in Trados Studio 2021**
 
