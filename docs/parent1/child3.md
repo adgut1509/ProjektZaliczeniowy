@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Translation memories
+title: Documents
 parent: CAT tools
-nav_order: 3
+nav_order: 1
 ---
 
-# **What are translation memories in CAT tools**
+# **What are documents in CAT tools**
 
 In CAT tools, translation memories are databases that consist of stored segments of translated texts. Each entry in a translation memory includes a pair of the original text and its translation.
 
@@ -15,7 +15,7 @@ It is especially useful for these types of translation that contain a lot of the
 
 Translation memories are built on the basis of a translator's completed translations.
 
-# **Translation memories in MemoQ Translator Pro**
+# **Documents in MemoQ Translator Pro**
 
 ![](../../assets/images/Picture28.png)
 
@@ -38,7 +38,7 @@ To go to the Translation memories section, open a project and click *Translation
 - click *Synchronize Online* to synchronise the translation memory by creating or updating a local copy
 
 
-# **Translation memories in Trados Studio**
+# **Documents in Trados Studio**
 
 ![](../../assets/images/Picture30.png)
 

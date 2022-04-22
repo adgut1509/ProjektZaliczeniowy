@@ -2,7 +2,7 @@
 layout: default
 title: Term bases
 parent: CAT tools
-nav_order: 2
+nav_order: 4
 ---
 
 # **What are term bases in CAT tools**
