@@ -5,7 +5,7 @@ parent: CAT tool providers
 nav_order: 1
 ---
 
-# **MemoQ Translator Pro**
+# **MemoQ**
 
 - Runs on Microsoft Windows
 - Designed by translators for translators

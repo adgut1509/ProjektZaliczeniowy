@@ -6,7 +6,9 @@ grand_parent: User guide
 nav_order: 1
 ---
 
-# How to open a MemoQ document file (.mqxlz) in Trados Studio 2021
+# How to open a MemoQ document file (.mqxlz) in Trados Studio
+
+Performs these steps to open a MemoQ document file (.mqxlz) in Trados Studio:
 
 1. Open a project in Trados Studio 2021.
 2. Click *Add files*.

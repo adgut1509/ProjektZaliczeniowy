@@ -5,4 +5,4 @@ nav_order: 4
 has_children: true
 ---
 
-Here you will learn how to import files created using MemoQ to Trados Studio 2021 and the other way round.
+Here you will learn how to import files created using MemoQ Translator Pro 9.10 to Trados Studio 2021 and the other way round.

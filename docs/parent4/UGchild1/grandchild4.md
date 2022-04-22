@@ -6,7 +6,9 @@ nav_order: 1
 grand_parent: User guide
 ---
 
-# How to open a Trados document file (.sdlxliff) in MemoQ Translator Pro 9.10
+# How to open a Trados document file (.sdlxliff) in MemoQ Translator Pro
+
+Perform these steps to open a Trados document file (.sdlxliff) in MemoQ Translator Pro:
 
 1.	Open MemoQ Translator Pro.
 2.	Drag and drop the Trados document file (.sdlxliff) that you want to use into the designated space.

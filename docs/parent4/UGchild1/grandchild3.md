@@ -6,7 +6,7 @@ nav_order: 4
 grand_parent: User guide
 ---
 
-# How to open a Trados term base file (.sdltb) in MemoQ Translator Pro 9.10
+# How to open a Trados term base file (.sdltb) in MemoQ Translator Pro
 
 It is not possible to open an .sdltb file in MemoQ Translator Pro. However, you can convert the .sdltb file into one of the formats supported by MemoQ (.csv, .txt, .txv, .tmx, .xls, .xlsx, .xml, .tbx).
 
