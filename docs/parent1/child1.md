@@ -44,7 +44,6 @@ To go to the Translation memories section, open a project and click *Translation
 
 To go to the Translation memories section, click *Translation Memories* on the left side of the screen. Then, on the top part of the screen, you can:
 
-- click *Project Settings* to configure your project
 - click *Open* to open a new translation memory (an .sdltm file), a server-based translation memory, or a language resource template
 - click *New* to create a new translation memory (an .sdltm file), a server-based translation memory, or a language resource template
 - click *Import* to import a translation memory (.tmx, tmx.gz, .sdlxliff, .ttx, .itd, or .sdlalign)

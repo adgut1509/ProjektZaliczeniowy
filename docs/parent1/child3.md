@@ -33,17 +33,20 @@ To go to the Translations section, open a project and click *Translations* on th
 
 ![](../../assets/images/Picture36.png)
 
-To go to the Translation memories section, click *Translation Memories* on the left side of the screen. Then, on the top part of the screen, you can:
+To go to the Files section, click *Files* on the  lower left side of the screen. Then, on the top part of the screen, you can:
 
-- click *Project Settings* to configure your project
-- click *Open* to open a new translation memory (an .sdltm file), a server-based translation memory, or a language resource template
-- click *New* to create a new translation memory (an .sdltm file), a server-based translation memory, or a language resource template
-- click *Import* to import a translation memory (.tmx, tmx.gz, .sdlxliff, .ttx, .itd, or .sdlalign)
-- click *Export* to export a selected translation memory to a .tmx file
-- click *Migrate Local TMs to Cloud* to migrate a local translation memory to a cloud server
-- click *Align Documents* to select a translation memory and the documents (a single file pair or multiple files) to align, or to open an alignment file (.sdlalign)
-- click *Create AutoSuggest Display* to select a translation memory and create a new AutoSuggest dictionary
-- click *Commit Changes* to commit pending changes to a particular translation memory
+- click *Open For Translation* to open the selected document for translation
+- click *Open For Review* to open the selected document for review
+- click *Open For Sign-off* to open the selected document for sign-off
+- click *Batch tasks* to perform tasks on all applicable project files
+- click *Explore Containing Folder* to open the folder containing the selected document
+- click *Open File With* to choose an external program to open the selected document
+- click *Add Files* to add a new document
+- click *Add Folders* to add a folder
+- click *Add New Folder* to create and add a new folder
+- click *Delete Files* to delete the selected document
+- click *Change File Usage* to change the properties of the selected document
+- click *Revert to SDLXLIFF* to revert the selected document to .sdlxliff file
 
 ## **Links**
 
