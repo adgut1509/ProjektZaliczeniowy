@@ -39,14 +39,26 @@ To go to the Project section, simply open MemoQ Translator Pro. Then, on the top
 To go to the Projects section, click *Projects* on the left side of the screen. Then, on the top part of the screen, you can:
 
 - click *Project Settings* to configure your project
-- click *Open* to open a new translation memory (an .sdltm file), a server-based translation memory, or a language resource template
-- click *New* to create a new translation memory (an .sdltm file), a server-based translation memory, or a language resource template
-- click *Import* to import a translation memory (.tmx, tmx.gz, .sdlxliff, .ttx, .itd, or .sdlalign)
-- click *Export* to export a selected translation memory to a .tmx file
-- click *Migrate Local TMs to Cloud* to migrate a local translation memory to a cloud server
-- click *Align Documents* to select a translation memory and the documents (a single file pair or multiple files) to align, or to open an alignment file (.sdlalign)
-- click *Create AutoSuggest Display* to select a translation memory and create a new AutoSuggest dictionary
-- click *Commit Changes* to commit pending changes to a particular translation memory
+- click *New Project* to create a new (local or cloud) project
+- click *Open Project* to open a project in the .sdlproj format
+- click *Batch Tasks* to perform tasks on all applicable project files
+- click *View Project Files* to view project files
+- click *Set As Active* to set the selected project to be the active project
+- click *Remove From List* to remove the selected project from the list
+- click *Mark as Complete* to mark the selected project as complete
+- click *Revert to In Progress* to revert the selected project to in progress
+- click *Create Project Template* to create a new project template in the .sdltpl format
+- click *Open Project Folder* to open the folder with the selected project file
+- click *Publish Project* to publish the selected project to a server to enable collaboration
+- click *Open Project* to open a server hosted collaborative project
+- click *Unpublish Project* to unpublish the project from the server
+- click *Download Cloud Projects* to download cloud projects
+- click *Refresh* to refresh the current list of projects
+- click *Open in Cloud* to open the selected project in language cloud
+- click *Save to Cloud* to save the selected project to cloud
+- click *Open Package* to open a package in the .sdlppx or .sdlrpx format
+- click *Create Project Package* to create a new project package
+- click *Create Return Package* to create a return package
 
 ## **Links**
 
