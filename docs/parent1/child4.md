@@ -17,9 +17,9 @@ Translation memories are built on the basis of a translator's completed translat
 
 # **Packages in MemoQ Translator Pro**
 
-![](../../assets/images/Picture28.png)
+![](../../assets/images/Picture38.png)
 
-To go to the Translation memories section, open a project and click *Translation memories* on the left side of the screen. Then, on the top part of the screen, you can:
+To go to the Project section, simply open MemoQ Translator Pro. Then, on the top part of the screen, you can:
 
 - click *Create/Use New* to create a new translation memory to be used in the project 
 - click *Register Local* to register a local translation memory for MemoQ to use in projects (the preferred file format is .mtm)
@@ -40,7 +40,7 @@ To go to the Translation memories section, open a project and click *Translation
 
 # **Packages in Trados Studio**
 
-![](../../assets/images/Picture30.png)
+![](../../assets/images/Picture39.png)
 
 To go to the Translation memories section, click *Translation Memories* on the left side of the screen. Then, on the top part of the screen, you can:
 

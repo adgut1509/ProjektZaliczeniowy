@@ -1,46 +1,37 @@
 ---
 layout: default
-title: Translation files
+title: Bilingual files
 parent: CAT tools
 nav_order: 1
 ---
 
-# **What are translation files in CAT tools**
+# **What are bilingual files in CAT tools**
 
-In CAT tools, translation memories are databases that consist of stored segments of translated texts. Each entry in a translation memory includes a pair of the original text and its translation.
+Bilingual files are produced by CAT tools. They contain the source text and the target translation. They can be in various file formats, including .xliff and .sdlxliff. 
 
-When you open a new document in a CAT tool, the translation memory checks if any part of the text has already been translated, looking for an identical or almost identical match.
+# **Bilingual files in MemoQ Translator Pro**
 
-It is especially useful for these types of translation that contain a lot of the same sentences and phrases. They make the translation process much faster and more efficient. The suggestions from translation memories can be either accepted or rejected.
+![](../../assets/images/Picture35.png)
 
-Translation memories are built on the basis of a translator's completed translations.
+To go to the Translations section, open a project and click *Translations* on the left side of the screen. Then, on the top part of the screen, you can:
 
-# **Translation files in MemoQ Translator Pro**
+- click *Import* to import a file (you can also import a folder structure)
+- click *Translate* to open the selected document in the translation editor
+- click *Export* to save the selected document in its original format; you can also click *Export Bilingual* to export a bilingual file to an .xliff, .doc., or .rtf file
+- click *Delete* to delete the selected document
+- click *Reimport* to replace the selected document with an updated source document
+- click *X-Translate* to restore your work after you have reimported an updated version of the source file
+- click *Monolingual Review* to import a translated target language only document containing edits or corrections
+- click *Statistics* to see how many words, characters, and segments there are in your documents, and learn how much of the text has already been translated
+- click *Transcribe Images* to transcribe the text from a localised image
+- click *Image Pack* to create or receive image localisation packs
+- click *Versions* to view document history or create a new snapshot
+- click *Add To LiveDocs* to store the selected translated documents in your project's LiveDocs corpus
+- click *Create View* to combine or split up documents
 
-![](../../assets/images/Picture28.png)
+# **Bilingual files in Trados Studio**
 
-To go to the Translation memories section, open a project and click *Translation memories* on the left side of the screen. Then, on the top part of the screen, you can:
-
-- click *Create/Use New* to create a new translation memory to be used in the project 
-- click *Register Local* to register a local translation memory for MemoQ to use in projects (the preferred file format is .mtm)
-- click *Clone* to make a copy of the selected translation memory
-- click *Properties* to display the properties of the selected translation memory
-- click *Delete* to delete the selected translation memory
-- click *Use In Project* to use the selected translation memory in a particular project
-- once you have done that, to remove the selected translation memory from a particular project, click *Remove From Project*
-- click *Settings* to display the settings on how the selected translation memory will be used in a particular project
-- click *Set As Working* to set the selected translation memory as the working translation memory, where all new translations are stored when the translator or reviewer confirms a translated segments
-- click *Set As Master* to set the selected translation memory as the master translation memory, where MemoQ stores translation during the Confirm And Update Rows operation
-- click *Edit* to open and edit the selected translation memory
-- click *Import* to import a file (.csv, .txt, .tsv, .tmx, or .sdltm)
-- click *Export to TMX* to export the selected translation memory to a .tmx file
-- click *Repair Resource* to repair the translation memory to improve lookup speed
-- click *Synchronize Online* to synchronise the translation memory by creating or updating a local copy
-
-
-# **Documents in Trados Studio**
-
-![](../../assets/images/Picture30.png)
+![](../../assets/images/Picture36.png)
 
 To go to the Translation memories section, click *Translation Memories* on the left side of the screen. Then, on the top part of the screen, you can:
 
