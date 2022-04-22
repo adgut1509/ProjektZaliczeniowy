@@ -7,13 +7,7 @@ nav_order: 2
 
 # **What are packages in CAT tools**
 
-In CAT tools, translation memories are databases that consist of stored segments of translated texts. Each entry in a translation memory includes a pair of the original text and its translation.
-
-When you open a new document in a CAT tool, the translation memory checks if any part of the text has already been translated, looking for an identical or almost identical match.
-
-It is especially useful for these types of translation that contain a lot of the same sentences and phrases. They make the translation process much faster and more efficient. The suggestions from translation memories can be either accepted or rejected.
-
-Translation memories are built on the basis of a translator's completed translations.
+In CAT tools, packages are translation projects, which contain of bilingual files, translation memories, term bases, etc.
 
 # **Packages in MemoQ Translator Pro**
 
@@ -21,28 +15,28 @@ Translation memories are built on the basis of a translator's completed translat
 
 To go to the Project section, simply open MemoQ Translator Pro. Then, on the top part of the screen, you can:
 
-- click *Create/Use New* to create a new translation memory to be used in the project 
-- click *Register Local* to register a local translation memory for MemoQ to use in projects (the preferred file format is .mtm)
-- click *Clone* to make a copy of the selected translation memory
-- click *Properties* to display the properties of the selected translation memory
-- click *Delete* to delete the selected translation memory
-- click *Use In Project* to use the selected translation memory in a particular project
-- once you have done that, to remove the selected translation memory from a particular project, click *Remove From Project*
-- click *Settings* to display the settings on how the selected translation memory will be used in a particular project
-- click *Set As Working* to set the selected translation memory as the working translation memory, where all new translations are stored when the translator or reviewer confirms a translated segments
-- click *Set As Master* to set the selected translation memory as the master translation memory, where MemoQ stores translation during the Confirm And Update Rows operation
-- click *Edit* to open and edit the selected translation memory
-- click *Import* to import a file (.csv, .txt, .tsv, .tmx, or .sdltm)
-- click *Export to TMX* to export the selected translation memory to a .tmx file
-- click *Repair Resource* to repair the translation memory to improve lookup speed
-- click *Synchronize Online* to synchronise the translation memory by creating or updating a local copy
-
+- click *Open* to open the selected project
+- click *Open Recent* to go to one of the five projects you most recently worked on
+- click *Rename* to change the name of the selected project
+- click *Manage Projects* to view all your projects in a single list and find information on them
+- click *Close project* to close the project you are working on
+- click *New Project* to create a new project (you can also create it from a template)
+- click *Import Package* to import a package you have received
+- click *Check Out From Server* to start working on a job assigned to you on a MemoQ server
+- click *Wrap Up* to finish the selected project by running automated actions (only works for template-based projects)
+- click *Move To Recycle Bin* to delete the selected project when you no longer need it
+- click *Log Time For Document* to view log time for the document that is currently active
+- click *View Recycle Bin* to see the content of the Recycle Bin
+- click *Back Up* to create a backup of the selected project and the resources (translation memories, term bases, etc.) it uses
+- click *Restore* to restore a project and its resources from a backup
+- click *Manage Logins* to view the server logins MemoQ has saved for you or remove items from the list so you can connect using a different username
+- click *Show Project List Only* to hide project creation commands and show only the project list
 
 # **Packages in Trados Studio**
 
 ![](../../assets/images/Picture39.png)
 
-To go to the Translation memories section, click *Translation Memories* on the left side of the screen. Then, on the top part of the screen, you can:
+To go to the Projects section, click *Projects* on the left side of the screen. Then, on the top part of the screen, you can:
 
 - click *Project Settings* to configure your project
 - click *Open* to open a new translation memory (an .sdltm file), a server-based translation memory, or a language resource template
