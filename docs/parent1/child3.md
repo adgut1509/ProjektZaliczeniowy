@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Documents
+title: Translation files
 parent: CAT tools
 nav_order: 1
 ---
 
-# **What are documents in CAT tools**
+# **What are translation files in CAT tools**
 
 In CAT tools, translation memories are databases that consist of stored segments of translated texts. Each entry in a translation memory includes a pair of the original text and its translation.
 
@@ -15,7 +15,7 @@ It is especially useful for these types of translation that contain a lot of the
 
 Translation memories are built on the basis of a translator's completed translations.
 
-# **Documents in MemoQ Translator Pro**
+# **Translation files in MemoQ Translator Pro**
 
 ![](../../assets/images/Picture28.png)
 
