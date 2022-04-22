@@ -1,7 +1,7 @@
 ---
 layout: default
-title: How to open a MemoQ text file (.mqxlz) in Trados Studio 2021
-parent: MemoQ files in Trados Studio 2021
+title: How to open a MemoQ text file in Trados
+parent: MemoQ files in Trados
 grand_parent: User guide
 nav_order: 1
 ---
