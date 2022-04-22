@@ -5,7 +5,7 @@ parent: CAT tool providers
 nav_order: 2
 ---
 
-# **RWS Trados Studio 2021**
+# **RWS Trados Studio**
 
 - The leader of the CAT tool market
 - Over 270,000 users - the world's biggest community of professional translators

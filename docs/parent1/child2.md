@@ -32,7 +32,7 @@ To go to the Term bases section, open a project and click *Translation memories*
 - click *Repair Resource* to repair the term base to improve lookup speed
 - click *Synchronize Online* to synchronise the term base by creating or updating a local copy
 
-# **Term bases in Trados Studio 2021**
+# **Term bases in Trados Studio**
 
 ![](../../assets/images/Picture27.png)
 

@@ -38,7 +38,7 @@ To go to the Translation memories section, open a project and click *Translation
 - click *Synchronize Online* to synchronise the translation memory by creating or updating a local copy
 
 
-# **Translation memories in Trados Studio 2021**
+# **Translation memories in Trados Studio**
 
 ![](../../assets/images/Picture30.png)
 
