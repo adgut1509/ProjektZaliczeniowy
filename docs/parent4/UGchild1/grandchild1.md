@@ -12,24 +12,36 @@ Perform these steps to open a Trados package file (.sdlppx) in memoQ translator 
 
 1.	Open memoQ translator pro.
 
-2.	Drag and drop the Trados package file (.sdlppx) that you want to use into the designated space.
+2.	Click *New Project* and select the *New Project* option to create a new project.
 
-    ![](../../../assets/images/Picture5.png)
+    ![](../../../assets/images/Picture42.png)
 
-3.	Click *Start translating*.
+3.	Name your project, and add other information. Remember to select the source and target languages. Then, click *Next*.
 
-    ![](../../../assets/images/Picture6.png)
+    ![](../../../assets/images/Picture44.png)
 
-4. 	Enter the information and the target language, and click *Next*.
+4. 	Click *Import* to import a project.
 
-    ![](../../../assets/images/Picture7.png)
+    ![](../../../assets/images/Picture43.png)
 
-5.	Translation memories and term bases are imported by default. If you do not wish to import them, untick the boxes next to them. Then, click *Finish*.
+5.	Select the *All files* option so that your .sdlppx file is selectable. Select it, and click *Open*.
 
-    ![](../../../assets/images/Picture8.png)
+    ![](../../../assets/images/Picture45.png)
 
-6.	Wait for the operation to complete, and click *Close*.
+6.	Click *OK*.
 
-    ![](../../../assets/images/Picture9.png)
+    ![](../../../assets/images/Picture46.png)
 
-7.	You have successfully added the package file.
+7.	Wait for the operation to finish. Click *Finish* or if you want to import translation memories and/or term bases, click *Next*.
+
+    ![](../../../assets/images/Picture47.png)
+
+8.	Select the translation memories you want to import and click *Next*.
+
+    ![](../../../assets/images/Picture48.png)
+
+9.	Select the term bases you want to import and click *Finish*.
+
+    ![](../../../assets/images/Picture49.png)
+
+10. You have successfully added the package file.
