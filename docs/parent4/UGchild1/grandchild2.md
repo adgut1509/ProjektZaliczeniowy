@@ -34,7 +34,7 @@ Perform these steps to import a Trados translation memory file (.sdltm) into mem
 
 7.	You have successfully imported the translation memory file.
 
-Note: 
+**Note:** When importing a Trados translation memory file you might get a message about the languages not matching because Trados Studio requires a specified language variant (e.g. English (United States), while memoQ does not. In such case, click *Import*.
 
 ![](../../../assets/images/Picture50.png)
 
