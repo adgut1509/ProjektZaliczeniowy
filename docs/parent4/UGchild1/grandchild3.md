@@ -8,9 +8,9 @@ grand_parent: User guide
 
 # How to import a Trados term base file (.sdltb) into memoQ translator pro
 
-It is not possible to import an .sdltb file into memoQ translator pro. However, you can convert the .sdltb file into one of the formats supported by memoQ (.csv, .txt, .txv, .tmx, .xls, .xlsx, .xml, .tbx).
+It is not possible to import an .sdltb file into memoQ translator pro. However, you can convert the .sdltb file into one of the formats supported by memoQ (.csv, .txt, .txv, .tmx, .xls, .xlsx, .xml, .tbx). One program that you can use to do that is [Glossary Converter](https://www.cerebus.de/glossaryconverter/), which converts generate Excel files from .sdltb ones.
 
-It is possible to import a term base as part of a package file (see [here](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent4/UGchild1/grandchild1.html)).
+It is also possible to import a term base as part of a package file (see [here](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent4/UGchild1/grandchild1.html)).
 
 ## Links
 
