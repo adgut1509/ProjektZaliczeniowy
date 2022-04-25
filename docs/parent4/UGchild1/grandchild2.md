@@ -28,7 +28,7 @@ Perform these steps to import a Trados translation memory file (.sdltm) into mem
 
     ![](../../../assets/images/Picture13.png)
 
-6.	Select the Trados translation memory file (.sdltm), and click *Open*.
+6.	Select the Trados translation memory file (.sdltm or .tmx), and click *Open*.
 
     ![](../../../assets/images/Picture14.png)
 
