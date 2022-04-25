@@ -1,14 +1,14 @@
 ---
 layout: default
-title: How to open a Trados translation memory file in memoQ
+title: How to import a Trados translation memory file into memoQ
 parent: Trados files in memoQ
 nav_order: 3
 grand_parent: User guide
 ---
 
-# How to open a Trados translation memory file (.sdltm) in memoQ translator pro
+# How to import a Trados translation memory file (.sdltm) into memoQ translator pro
 
-Perform these steps to open a Trados translation memory file (.sdltm) in memoQ translator pro:
+Perform these steps to import a Trados translation memory file (.sdltm) into memoQ translator pro:
 
 1.	Open memoQ translator pro.
 

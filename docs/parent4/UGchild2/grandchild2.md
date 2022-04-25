@@ -1,14 +1,14 @@
 ---
 layout: default
-title: How to open a memoQ translation memory file in Trados
+title: How to import a memoQ translation memory file into Trados
 parent: memoQ files in Trados
 grand_parent: User guide
 nav_order: 3
 ---
 
-# How to open a memoQ translation memory file (.tmx) in Trados Studio
+# How to import a memoQ translation memory file (.tmx) into Trados Studio
 
-Performs these steps to open a memoQ translation memory file (.tmx) in Trados Studio:
+Performs these steps to import a memoQ translation memory file (.tmx) into Trados Studio:
 
 1. Open a project in Trados Studio 2021.
 2. Go to the *Translation Memories* section.

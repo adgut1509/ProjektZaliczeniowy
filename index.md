@@ -8,33 +8,8 @@ permalink: /
 
 # **Introduction**
 
-MemoQ and Trados Studio 2021 are computer-assisted translation tools. It is possible to import some types of files created using memoQ in Trados Studio 2021 and the other way round. In the User guide, you will learn how to do that.
+MemoQ and Trados Studio 2021 are computer-assisted translation tools. It is possible to import some types of files created using memoQ in Trados Studio 2021 and the other way round. In the user guide, you will learn how to do that.
 
-## **Persona**
+## **Who is it for**
 
-**Name**: Michelle
-
-**Age**: 37
-
-**Nationality**: American
-
-**Gender**: Female
-
-**Job description**: In-house translator (English - Italian)
-
-**Company size**: 250
-
-**Location**: Dallas, Texas
-
-**Education level**: MA (in Italian philology)
-
-**Experience with translation software**: 4/5
-
-**Computer knowledge**: 3/5
-
-**Documentation use**: 2/5
-
-**Confidence**: 4/5
-
-   ![](/assets/images/indeks.png)
-
+This user guide is for translators who need to use memoQ translator pro and RWS Trados Studio. It is recommended for the audience to have some basic knowledge of these CAT tools.
