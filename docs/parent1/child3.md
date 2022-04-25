@@ -9,7 +9,7 @@ nav_order: 1
 
 Bilingual files are produced by CAT tools. They contain the source text and the target translation. They can be in various file formats, including .xliff and .sdlxliff. 
 
-# **Bilingual files in MemoQ Translator Pro**
+# **Bilingual files in memoQ translator pro**
 
 ![](../../assets/images/Picture35.png)
 
@@ -50,4 +50,4 @@ To go to the Files section, click *Files* on the  lower left side of the screen.
 
 ## **Links**
 
-[Translation memory settings in MemoQ Translator Pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)
+[Translation memory settings in memoQ translator pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)

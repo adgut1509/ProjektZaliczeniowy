@@ -11,14 +11,14 @@ In CAT tools, term bases are databases that consist of pairs of multilingual ter
 
 Term bases often include specific words and phrases that the you are *required* to translate in a particular way.
 
-# **Term bases in MemoQ Translator Pro**
+# **Term bases in memoQ translator pro**
 
 ![](../../assets/images/Picture29.png)
 
 To go to the Term bases section, open a project and click *Translation memories* on the left side of the screen. Then, on the top part of the screen, you can:
 
 - click *Create/Use New* to create a new term base to be used in the project 
-- click *Register Local* to register a local term base for MemoQ to use in projects (the preferred file formats are .mtb and .xml)
+- click *Register Local* to register a local term base for memoQ to use in projects (the preferred file formats are .mtb and .xml)
 - click *Properties* to display the properties of the selected term base
 - click *Delete* to delete the selected term base
 - click *Use In Project* to use the selected term base in a particular project
@@ -60,4 +60,4 @@ Apart from the Term Recognition section, you can also go to the Termbase Search 
 
 ## **Links**
 
-[Term bases in MemoQ Translator Pro](https://docs.memoq.com/current/en/Things/things-term-bases.html)
+[Term bases in memoQ translator pro](https://docs.memoq.com/current/en/Things/things-term-bases.html)

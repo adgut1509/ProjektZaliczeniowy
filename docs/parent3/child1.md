@@ -1,11 +1,11 @@
 ---
 layout: default
-title: MemoQ
+title: memoQ
 parent: CAT tool providers
 nav_order: 1
 ---
 
-# **MemoQ**
+# **memoQ**
 
 - Runs on Microsoft Windows
 - Designed by translators for translators
@@ -19,5 +19,5 @@ nav_order: 1
 
 ## **Links**
 
-[MemoQ compatibility](https://www.memoq.com/products/memoq-translator-pro)
+[memoQ compatibility](https://www.memoq.com/products/memoq-translator-pro)
 

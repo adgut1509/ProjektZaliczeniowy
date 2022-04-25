@@ -9,11 +9,11 @@ nav_order: 2
 
 In CAT tools, packages are translation projects, which contain of bilingual files, translation memories, term bases, etc.
 
-# **Packages in MemoQ Translator Pro**
+# **Packages in memoQ translator pro**
 
 ![](../../assets/images/Picture38.png)
 
-To go to the Project section, simply open MemoQ Translator Pro. Then, on the top part of the screen, you can:
+To go to the Project section, simply open memoQ translator pro. Then, on the top part of the screen, you can:
 
 - click *Open* to open the selected project
 - click *Open Recent* to go to one of the five projects you most recently worked on
@@ -22,14 +22,14 @@ To go to the Project section, simply open MemoQ Translator Pro. Then, on the top
 - click *Close project* to close the project you are working on
 - click *New Project* to create a new project (you can also create it from a template)
 - click *Import Package* to import a package you have received
-- click *Check Out From Server* to start working on a job assigned to you on a MemoQ server
+- click *Check Out From Server* to start working on a job assigned to you on a memoQ server
 - click *Wrap Up* to finish the selected project by running automated actions (only works for template-based projects)
 - click *Move To Recycle Bin* to delete the selected project when you no longer need it
 - click *Log Time For Document* to view log time for the document that is currently active
 - click *View Recycle Bin* to see the content of the Recycle Bin
 - click *Back Up* to create a backup of the selected project and the resources (translation memories, term bases, etc.) it uses
 - click *Restore* to restore a project and its resources from a backup
-- click *Manage Logins* to view the server logins MemoQ has saved for you or remove items from the list so you can connect using a different username
+- click *Manage Logins* to view the server logins memoQ has saved for you or remove items from the list so you can connect using a different username
 - click *Show Project List Only* to hide project creation commands and show only the project list
 
 # **Packages in Trados Studio**
@@ -62,4 +62,4 @@ To go to the Projects section, click *Projects* on the left side of the screen. 
 
 ## **Links**
 
-[Translation memory settings in MemoQ Translator Pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)
+[Translation memory settings in memoQ translator pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)

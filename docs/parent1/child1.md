@@ -15,14 +15,14 @@ It is especially useful for these types of translation that contain a lot of the
 
 Translation memories are built on the basis of a translator's completed translations.
 
-# **Translation memories in MemoQ Translator Pro**
+# **Translation memories in memoQ translator pro**
 
 ![](../../assets/images/Picture28.png)
 
 To go to the Translation memories section, open a project and click *Translation memories* on the left side of the screen. Then, on the top part of the screen, you can:
 
 - click *Create/Use New* to create a new translation memory to be used in the project 
-- click *Register Local* to register a local translation memory for MemoQ to use in projects (the preferred file format is .mtm)
+- click *Register Local* to register a local translation memory for memoQ to use in projects (the preferred file format is .mtm)
 - click *Clone* to make a copy of the selected translation memory
 - click *Properties* to display the properties of the selected translation memory
 - click *Delete* to delete the selected translation memory
@@ -30,7 +30,7 @@ To go to the Translation memories section, open a project and click *Translation
 - once you have done that, to remove the selected translation memory from a particular project, click *Remove From Project*
 - click *Settings* to display the settings on how the selected translation memory will be used in a particular project
 - click *Set As Working* to set the selected translation memory as the working translation memory, where all new translations are stored when the translator or reviewer confirms a translated segments
-- click *Set As Master* to set the selected translation memory as the master translation memory, where MemoQ stores translation during the Confirm And Update Rows operation
+- click *Set As Master* to set the selected translation memory as the master translation memory, where memoQ stores translation during the Confirm And Update Rows operation
 - click *Edit* to open and edit the selected translation memory
 - click *Import* to import a file (.csv, .txt, .tsv, .tmx, or .sdltm)
 - click *Export to TMX* to export the selected translation memory to a .tmx file
@@ -55,4 +55,4 @@ To go to the Translation memories section, click *Translation Memories* on the l
 
 ## **Links**
 
-[Translation memory settings in MemoQ Translator Pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)
+[Translation memory settings in memoQ translator pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)

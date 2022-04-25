@@ -6,9 +6,9 @@ nav_order: 4
 
 # **Useful links**
 
-[MemoQ website](https://www.memoq.com/)
+[memoQ website](https://www.memoq.com/)
 
-[MemoQ guides](https://helpcenter.memoq.com/hc/en-us/categories/360002222279-Guides)
+[memoQ guides](https://helpcenter.memoq.com/hc/en-us/categories/360002222279-Guides)
 
 [Trados website](https://www.trados.com/)
 
