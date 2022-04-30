@@ -20,7 +20,7 @@ Perform these steps to open a Trados package file (.sdlppx) in memoQ translator 
 
     ![](../../../assets/images/Picture52.png)
 
-4. 	Name your project, and add other information. Select the target language of the project. Then, click *Next*.
+4. 	Name your project, and add other information. Select the target language of the project. Also, here you can change the name of your the project. Then, click *Next*.
 
     ![](../../../assets/images/Picture53.png)
 

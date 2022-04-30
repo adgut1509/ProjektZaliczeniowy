@@ -7,7 +7,7 @@ nav_order: 2
 
 # **What are packages in CAT tools**
 
-In CAT tools, packages are translation projects, which contain of bilingual files, translation memories, term bases, etc.
+In CAT tools, packages are translation projects, which contain of bilingual files, translation memories, term bases, etc. Once opened and modified in a different CAT tool, the package files might be exported to their original format.
 
 # **Packages in memoQ translator pro**
 
