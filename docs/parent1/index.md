@@ -7,11 +7,11 @@ has_children: true
 
 # **What is a CAT tool**
 
-CAT (Computer-Assisted Translation) tools are software that help a human translator translate texts from one language to another. They have changed the work of a translator a lot. CAT tools also make it easier for translators to manage, edit, and submit their projects.
+CAT (Computer-Assisted Translation) tools are programs that help in text translation. They have radically changed the way professional translators work and made project management and editing easier.
 
 # **What does a CAT tool do**
 
-When the human translator inputs text in the source language into a CAT tool, a CAT tool divides it into segments. Then, the segments get translated, and the CAT tool saves the parts of the source and target texts.
+When the human translator inputs text in the source language into a CAT tool, a CAT tool divides it into segments. Then, the segments are translated, and the CAT tool saves the parts of the source and target texts.
 
 The process step-by-step:
 
@@ -39,7 +39,7 @@ The process step-by-step:
 # **What are the benefits of CAT tools**
 
 - The automation of CAT tools makes the translation process faster and more consistent.
-- CAT tools and their features get smarter the more you use them, so using them gets easier with time.
+- CAT tools and their features get smarter the more you use them, so using them becomes easier with time.
 - CAT tools are avaiable on many different platforms, including the web, desktop, and mobile.
 - CAT tools format your text, so you do not need to do handle that yourself.
 - Thanks to integrated language databases, CAT tools are especially useful for translating texts with specific terminology.

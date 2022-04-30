@@ -7,13 +7,13 @@ nav_order: 1
 
 # **memoQ**
 
-- Runs on Microsoft Windows
-- Designed by translators for translators
-- Increases productivity and quality of translations
-- Compatible with most other translation tools
-- Supports most file formats and over 100 languages
-- Translation memory, term bases, predictive typing technology
-- Recycling documents with the LiveDocs feature
+- runs on Microsoft Windows
+- designed by translators for translators
+- increases productivity and quality of translations
+- compatible with most other translation tools
+- supports most file formats and over 100 languages
+- translation memory, term bases, predictive typing technology
+- recycling documents with the LiveDocs feature
 
 ![](../../assets/images/memoq1.png)
 
