@@ -37,5 +37,3 @@ Performs these steps to import a memoQ translation memory file (.tmx) into Trado
 10. Click *Finish*.
 
    ![](../../../assets/images/Picture21.png)
-
-11. You have successfully imported the translation memory file.
