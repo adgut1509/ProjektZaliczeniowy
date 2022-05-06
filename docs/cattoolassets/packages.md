@@ -5,6 +5,10 @@ parent: CAT tool assets
 nav_order: 2
 ---
 
+- [**What are packages in CAT tools**](#what-are-packages-in-cat-tools)
+- [**Packages in memoQ translator pro**](#packages-in-memoq-translator-pro)
+- [**Packages in Trados Studio**](#packages-in-trados-studio)
+
 # **What are packages in CAT tools**
 
 In CAT tools, packages are translation projects, which contain of [bilingual files](https://adgut1509.github.io/ProjektZaliczeniowy/docs/cattoolassets/bilingualfiles.html), [translation memories](https://adgut1509.github.io/ProjektZaliczeniowy/docs/cattoolassets/translationmemories.html), [term bases](https://adgut1509.github.io/ProjektZaliczeniowy/docs/cattoolassets/termbases.html), etc. Packages are used to organise work and resources for translators.

@@ -8,7 +8,7 @@ nav_order: 4
 - [**What are term bases in CAT tools**](#what-are-term-bases-in-cat-tools)
 - [**Term bases in memoQ translator pro**](#term-bases-in-memoq-translator-pro)
 - [**Term bases in Trados Studio**](#term-bases-in-trados-studio)
-  - [**Links**](#links)
+- [**Links**](#links)
 
 # **What are term bases in CAT tools**
 
@@ -63,6 +63,6 @@ Apart from the Term Recognition section, you can also go to the Termbase Search 
 
 ![](../../assets/images/Picture32.png)
 
-## **Links**
+# **Links**
 
 [Term bases in memoQ translator pro](https://docs.memoq.com/current/en/Things/things-term-bases.html)

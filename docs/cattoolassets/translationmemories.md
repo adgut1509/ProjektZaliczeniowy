@@ -5,6 +5,11 @@ parent: CAT tool assets
 nav_order: 3
 ---
 
+- [**What are translation memories in CAT tools**](#what-are-translation-memories-in-cat-tools)
+- [**Translation memories in memoQ translator pro**](#translation-memories-in-memoq-translator-pro)
+- [**Translation memories in Trados Studio**](#translation-memories-in-trados-studio)
+- [**Links**](#links)
+
 # **What are translation memories in CAT tools**
 
 In CAT tools, translation memories are databases that consist of stored segments of translated texts. Each entry in a translation memory includes a pair of the original text and its translation.
@@ -53,6 +58,6 @@ To go to the Translation memories section, click *Translation Memories* on the l
 - click *Create AutoSuggest Display* to select a translation memory and create a new AutoSuggest dictionary
 - click *Commit Changes* to commit pending changes to a particular translation memory
 
-## **Links**
+# **Links**
 
 [Translation memory settings in memoQ translator pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)

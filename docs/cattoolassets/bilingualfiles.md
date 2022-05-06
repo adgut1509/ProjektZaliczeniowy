@@ -5,6 +5,10 @@ parent: CAT tool assets
 nav_order: 1
 ---
 
+- [**What are bilingual files in CAT tools**](#what-are-bilingual-files-in-cat-tools)
+- [**Bilingual files in memoQ translator pro**](#bilingual-files-in-memoq-translator-pro)
+- [**Bilingual files in Trados Studio**](#bilingual-files-in-trados-studio)
+
 # **What are bilingual files in CAT tools**
 
 Bilingual files are produced by CAT tools. They contain the source text and the target translation. They can be in various file formats, including .xliff and .sdlxliff. Once opened and translated in a CAT tool, the target of bilingual files can be exported to its original format.
