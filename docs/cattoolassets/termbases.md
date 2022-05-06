@@ -9,7 +9,7 @@ nav_order: 4
 
 In CAT tools, term bases are databases that consist of pairs of multilingual terms stored in a list. They work like glossaries - you can access them when your translation requires it.
 
-Term bases often include specific words and phrases that the you are *required* to translate in a particular way.
+Term bases are often used to enforce terminology (words and phrases) that translators are *required* to translate in a particular way.
 
 # **Term bases in memoQ translator pro**
 

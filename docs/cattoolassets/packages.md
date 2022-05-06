@@ -7,13 +7,13 @@ nav_order: 2
 
 # **What are packages in CAT tools**
 
-In CAT tools, packages are translation projects, which contain of bilingual files, translation memories, term bases, etc. Once opened and modified in a different CAT tool, package files might be exported to their original format.
+In CAT tools, packages are translation projects, which contain of [bilingual files](https://adgut1509.github.io/ProjektZaliczeniowy/docs/cattoolassets/bilingualfiles.html), [translation memories](https://adgut1509.github.io/ProjektZaliczeniowy/docs/cattoolassets/translationmemories.html), [term bases](https://adgut1509.github.io/ProjektZaliczeniowy/docs/cattoolassets/termbases.html), etc. Packages are used to organise work and resources for translators.
 
 # **Packages in memoQ translator pro**
 
 ![](../../assets/images/Picture38.png)
 
-To go to the Project section, simply open memoQ translator pro. Then, on the top part of the screen, you can:
+To go to the Project section, open memoQ translator pro. Then, on the top part of the screen, you can:
 
 - click *Open* to open the selected project
 - click *Open Recent* to go to one of the five projects you most recently worked on

@@ -14,6 +14,7 @@ nav_order: 1
 - supports most file formats and over 100 languages
 - translation memory, term bases, predictive typing technology
 - recycling documents with the LiveDocs feature
+- the pricing of memoQ translator pro is different for collaboration and individual use
 
 ![](../../assets/images/memoq1.png)
 

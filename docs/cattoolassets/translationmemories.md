@@ -9,7 +9,7 @@ nav_order: 3
 
 In CAT tools, translation memories are databases that consist of stored segments of translated texts. Each entry in a translation memory includes a pair of the original text and its translation.
 
-When you open a new document in a CAT tool, the translation memory checks if any part of the text has already been translated, looking for an identical or almost identical match.
+When you open a new document in a CAT tool, the analysis with a translation memory checks if any part of the text has already been translated, looking for an identical or almost identical match in the source text.
 
 It is especially useful for these types of translation that contain a lot of repeated sentences and phrases. They make the translation process much faster and more efficient. The suggestions from translation memories can be either accepted or rejected.
 
