@@ -20,5 +20,5 @@ nav_order: 1
 
 ## **Links**
 
-[memoQ compatibility](https://www.memoq.com/products/memoq-translator-pro)
+[memoQ compatibility](https://www.memoq.com/compatibility)
 
