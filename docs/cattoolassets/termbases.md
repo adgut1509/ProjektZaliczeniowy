@@ -5,6 +5,11 @@ parent: CAT tool assets
 nav_order: 4
 ---
 
+- [**What are term bases in CAT tools**](#what-are-term-bases-in-cat-tools)
+- [**Term bases in memoQ translator pro**](#term-bases-in-memoq-translator-pro)
+- [**Term bases in Trados Studio**](#term-bases-in-trados-studio)
+  - [**Links**](#links)
+
 # **What are term bases in CAT tools**
 
 In CAT tools, term bases are databases that consist of pairs of multilingual terms stored in a list. They work like glossaries - you can access them when your translation requires it.
