@@ -2,7 +2,7 @@
 layout: default
 title: How to open a memoQ bilingual file in Trados
 parent: memoQ files in Trados
-grand_parent: User guide
+grand_parent: User Guide
 nav_order: 1
 ---
 
