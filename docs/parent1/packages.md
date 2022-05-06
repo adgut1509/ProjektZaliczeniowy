@@ -59,7 +59,3 @@ To go to the Projects section, click *Projects* on the left side of the screen. 
 - click *Open Package* to open a package in the .sdlppx or .sdlrpx format
 - click *Create Project Package* to create a new project package
 - click *Create Return Package* to create a return package
-
-## **Links**
-
-[Translation memory settings in memoQ translator pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)

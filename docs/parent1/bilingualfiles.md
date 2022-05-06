@@ -47,7 +47,3 @@ To go to the Files section, click *Files* on the  lower left side of the screen.
 - click *Delete Files* to delete the selected document
 - click *Change File Usage* to change the properties of the selected document
 - click *Revert to SDLXLIFF* to revert the selected document to .sdlxliff file
-
-## **Links**
-
-[Translation memory settings in memoQ translator pro](https://docs.memoq.com/current/en/Things/things-tm-settings.html)
