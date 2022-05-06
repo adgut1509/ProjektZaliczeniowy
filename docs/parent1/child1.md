@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Translation memories
-parent: CAT tools
+parent: CAT tool assets
 nav_order: 3
 ---
 

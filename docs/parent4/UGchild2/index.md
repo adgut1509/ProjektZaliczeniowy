@@ -1,7 +1,7 @@
 ---
 layout: default
 title: memoQ files in Trados
-parent: User guide
+parent: User Guide
 nav_order: 2
 has_children: true
 ---

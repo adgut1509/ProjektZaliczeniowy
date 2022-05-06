@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RWS Trados
-parent: CAT tool providers
+parent: CAT tools
 nav_order: 2
 ---
 

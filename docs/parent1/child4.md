@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Packages
-parent: CAT tools
+parent: CAT tool assets
 nav_order: 2
 ---
 

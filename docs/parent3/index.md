@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAT tool providers
+title: CAT tools
 nav_order: 3
 has_children: true
 ---

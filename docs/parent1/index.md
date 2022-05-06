@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAT tools
+title: CAT tool assets
 nav_order: 2
 has_children: true
 ---

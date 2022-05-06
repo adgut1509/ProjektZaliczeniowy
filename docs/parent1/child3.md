@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bilingual files
-parent: CAT tools
+parent: CAT tool assets
 nav_order: 1
 ---
 

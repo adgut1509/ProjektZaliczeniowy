@@ -1,7 +1,7 @@
 ---
 layout: default
 title: memoQ
-parent: CAT tool providers
+parent: CAT tools
 nav_order: 1
 ---
 
