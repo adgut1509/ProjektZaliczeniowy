@@ -3,7 +3,7 @@ layout: default
 title: How to import a Trados term base file into memoQ
 parent: Trados files in memoQ
 nav_order: 4
-grand_parent: User guide
+grand_parent: User Guide
 ---
 
 # How to import a Trados term base file (.sdltb) into memoQ translator pro

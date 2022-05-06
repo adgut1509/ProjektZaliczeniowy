@@ -3,7 +3,7 @@ layout: default
 title: How to import a Trados translation memory file into memoQ
 parent: Trados files in memoQ
 nav_order: 3
-grand_parent: User guide
+grand_parent: User Guide
 ---
 
 # How to import a Trados translation memory file (.sdltm) into memoQ translator pro

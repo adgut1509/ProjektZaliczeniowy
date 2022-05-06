@@ -3,7 +3,7 @@ layout: default
 title: How to open a Trados package file in memoQ
 parent: Trados files in memoQ
 nav_order: 2
-grand_parent: User guide
+grand_parent: User Guide
 ---
 
 # How to open a Trados package file (.sdlppx) in memoQ translator pro

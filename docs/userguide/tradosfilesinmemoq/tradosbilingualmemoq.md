@@ -3,7 +3,7 @@ layout: default
 title: How to open a Trados bilingual file in memoQ
 parent: Trados files in memoQ
 nav_order: 1
-grand_parent: User guide
+grand_parent: User Guide
 ---
 
 # How to open a Trados bilingual file (.sdlxliff) in memoQ translator pro

@@ -20,12 +20,12 @@ The process step-by-step:
 3. The CAT tool divides the text into segments.
 4. The CAT tool displays the source and target texts side by side.
 5. The human translator inputs their translations into the target segments.
-6. The CAT tool saves the part of the source text and its translation in a [translation memory](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child2.html).
+6. The CAT tool saves the part of the source text and its translation in a [translation memory](https://adgut1509.github.io/ProjektZaliczeniowy/docs/cattoolassets/translationmemories.html).
 
 # **What are the features of CAT tools**
 
-- **[Translation memories](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child2.html)**
-- **[Term bases](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent1/child3.html)**
+- **[Translation memories](https://adgut1509.github.io/ProjektZaliczeniowy/docs/cattoolassets/translationmemories.html)**
+- **[Term bases](https://adgut1509.github.io/ProjektZaliczeniowy/docs/cattoolassets/termbases.html)**
 - **Collaborative teamwork capability**
     
    Cloud-based CAT tools allow you to invite the members of your team (translators, managers, reviewers, customers, etc.) and ask them for their opinion on your translation. Thanks to the software, it is possible to pre-translate the text and share it with  your collaborators.
