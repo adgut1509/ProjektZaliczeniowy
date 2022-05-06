@@ -38,4 +38,4 @@ Perform these steps to import a Trados translation memory file (.sdltm) into mem
 
 ![](../../../assets/images/Picture50.png)
 
-You can also import Trados translation memories into memoQ as part of a package file (see [here](https://adgut1509.github.io/ProjektZaliczeniowy/docs/parent4/UGchild1/grandchild1.html)).
+You can also import Trados translation memories into memoQ as part of a package file (see [here](https://adgut1509.github.io/ProjektZaliczeniowy/docs/userguide/tradosfilesinmemoq/tradospackagememoq.html)).
